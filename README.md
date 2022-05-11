@@ -1,5 +1,5 @@
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">y-owtb v1.0</h2>
-<h1 align="center">基于java开发的订单、仓库、运输、装卸、账单管理系统</h2>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">y-owtb v1.0</h1>
+<h1 align="center">基于java开发的订单、仓库、运输、装卸、账单管理系统</h1>
 
 > 该项目包含订单管理、仓库管理、运输配送管理、装卸管理、快递面单管理以及物流费用管理等功能，为您解决多货主、多品牌、多渠道、线上线下订单一体化、2B2C一盘货等难题，助力您实现供应链物流数字化管理。
 >
