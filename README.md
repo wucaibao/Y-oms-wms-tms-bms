@@ -5,13 +5,13 @@
 >
 > 目前该项目已部署到10+个仓库，服务于200+客户，系统日均处理：1000+SKU、收发货30000+箱、仓库面积10万+平、库存400万+箱、库存准确率99.98%+、日均运输提交货200+趟次、配送200+仓库和便利店、发出快递包裹2000+个。
 
-> QQ交流群：**798979486** 有任何问题可以加群交流，本团队提供支持和服务。
+> 咨询请加微信：<img src="./img/wechat.jpg" alt="Wu_caibao" style="zoom:50%;" /> 我们提供业务流程讲解、服务器资源和IT技术支持服务，也可以加QQ交流群：<img src="./img/OWTB技术群10群聊二维码.png" alt="**798979486** " style="zoom: 25%;" />
 >
 > 该项目还在完善中，本团队会持续更新并逐步开源，欢迎大家STAR。
 
 > <b>测试系统地址</b>： http://112.74.56.180:8882/zpro/ 用户名：admin 密码：123456
 >
-> 安卓端安装：下载[release.apk安装包](https://gitee.com/wucaibao/y-oms-wms-tms-bms/raw/master/download/app-release.apk)到安卓手机或者安卓模拟器，在登录界面中，设置服务器地址为：http://112.74.56.180:8882/zpro，安卓端用户名：admin 密码：123456
+> 安卓端安装：下载[release.apk安装包](https://gitee.com/wucaibao/y-oms-wms-tms-bms/raw/master/download/app-release.apk)到安卓手机或者安卓模拟器，安卓端用户名：admin 密码：123456，设置服务器地址为：http://112.74.56.180:8882/zpro  
 >
 > [gitee地址](https://gitee.com/wucaibao/y-oms-wms-tms-bms)： https://gitee.com/wucaibao/y-oms-wms-tms-bms 
 >
