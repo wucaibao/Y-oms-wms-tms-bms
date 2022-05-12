@@ -11,7 +11,7 @@
 
 > <b>测试系统地址</b>： http://112.74.56.180:8882/zpro/ 用户名：admin 密码：123456
 >
-> 安卓端安装：下载[release.apk安装包](./download/release.apk)到安卓手机或者安卓模拟器，在登录界面中，设置服务器地址为：http://112.74.56.180:8882/zpro，安卓端用户名：admin 密码：123456
+> 安卓端安装：下载[release.apk安装包](https://gitee.com/wucaibao/y-oms-wms-tms-bms/raw/master/download/app-release.apk)到安卓手机或者安卓模拟器，在登录界面中，设置服务器地址为：http://112.74.56.180:8882/zpro，安卓端用户名：admin 密码：123456
 >
 > [gitee地址](https://gitee.com/wucaibao/y-oms-wms-tms-bms)： https://gitee.com/wucaibao/y-oms-wms-tms-bms 
 >
