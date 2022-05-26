@@ -10,7 +10,7 @@
 
 > <b>测试系统地址</b>： http://112.74.56.180:8882/zpro/ 用户名：admin 密码：123456
 >
-> 安卓端安装：[直接下载release.apk包到电脑](https://gitee.com/wucaibao/y-oms-wms-tms-bms/raw/master/download/app-release.apk)，或者[使用二维码下载release.apk包到移动设备](./img/releaseapk.png)，安卓端用户名：admin 密码：123456，安卓端登录页面请设置服务器地址为：http://112.74.56.180:8882/zpro  
+> 安卓端安装：[直接下载release.apk包到电脑](./download/app-release.apk)，或者[使用二维码下载release.apk包到移动设备](./img/releaseapk.png)，安卓端用户名：admin 密码：123456，安卓端登录页面请设置服务器地址为：http://112.74.56.180:8882/zpro  
 >
 > [gitee地址](https://gitee.com/wucaibao/y-oms-wms-tms-bms)： https://gitee.com/wucaibao/y-oms-wms-tms-bms 
 >
@@ -229,7 +229,7 @@
 1.  xxxx
 2.  xxxx
 3.  xxxx
-4.  有三方物流业务的朋友，**我们免费提供本系统和IT服务**，物流业务可以联系[卓沛物流](http://www.zpro56.com)，卓沛物流将为您提供全平台、全渠道的供应链仓配服务。
+4.  有三方物流业务的朋友，**我们免费提供本系统和IT服务**，物流业务可以联系[卓沛物流](http://www.zpro56.com)，卓沛物流将为您提供全平台、全渠道的供应链订单管理追踪、仓储、运输配送、装卸服务。
 
 ## 五、参与贡献
 
